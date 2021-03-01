@@ -31,10 +31,11 @@
                  // hier moet jij zelf code schrijven
                     
                 case "easter egg":
-                    print " <br> hier moet jij zelf code schrijven";
+                    print " <br> Hallo, ik ben Jaymar";
                     break;
-                case "bedenk zelf een code":
+                case "Spiegeltje spiegeltje aan de wand...":
                     // jouw code hier
+                    print " je lijkt op een Remy;";
                     break;
                   // einde eigen code  
                 default:
